@@ -9,7 +9,7 @@
     - [3. `bisect` 시작](#3-bisect-시작)
     - [4. 현재 커밋을 `bad`로 지정](#4-현재-커밋을-bad로-지정)
     - [5. 버그가 발생하기 전의 커밋을 `good`으로 지정](#5-버그가-발생하기-전의-커밋을-good으로-지정)
-    - [6. `bisect`로 현재 확인 중인 커밋에서 버그가 발생했는 지 확서서](#6-bisect로-현재-확인-중인-커밋에서-버그가-발생했는-지-확서서)
+    - [6. `bisect`로 현재 확인 중인 커밋에서 버그가 발생했는 지 확인](#6-bisect로-현재-확인-중인-커밋에서-버그가-발생했는-지-확인)
     - [7. 버그가 발생하지 않은 커밋일 경우 `git bisect good`으로 지정](#7-버그가-발생하지-않은-커밋일-경우-git-bisect-good으로-지정)
     - [8. `git bisect reset`으로 `bisect` 종료](#8-git-bisect-reset으로-bisect-종료)
   - [참고](#참고)
@@ -73,7 +73,7 @@ git bisect bad HEAD
 git bisect good 34ba8a04dd66
 ```
 
-### 6. `bisect`로 현재 확인 중인 커밋에서 버그가 발생했는 지 확서서
+### 6. `bisect`로 현재 확인 중인 커밋에서 버그가 발생했는 지 확인
 
 ```powershell
 ## Powershell
