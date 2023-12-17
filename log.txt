@@ -1,0 +1,65 @@
+commit dd91570833dd5cd5eafcf9d2343835f9f943e19b
+Author: mon0mon <mon0mon@naver.com>
+Date:   Sun Dec 17 13:53:53 2023 +0900
+
+    ✨ feat : Adding the word 'stream'
+
+commit 0a8a327d3b1d665af8104b69018b4de463c952ab
+Author: mon0mon <mon0mon@naver.com>
+Date:   Sun Dec 17 13:53:53 2023 +0900
+
+    ✨ feat : Adding the word 'the'
+
+commit f8e4cf32f102ad391f33dc813aacce755e35eb02
+Author: mon0mon <mon0mon@naver.com>
+Date:   Sun Dec 17 13:53:53 2023 +0900
+
+    ✨ feat : Adding the word 'down'
+
+commit a7d47829cfeca3dc5f4fbe607f7980f71591437f
+Author: mon0mon <mon0mon@naver.com>
+Date:   Sun Dec 17 13:53:53 2023 +0900
+
+    ✨ feat : Changing the word 'boat' to 'car'
+
+commit f7f550a49bc663cf891fee15ad9f5df224b70475
+Author: mon0mon <mon0mon@naver.com>
+Date:   Sun Dec 17 13:53:53 2023 +0900
+
+    ✨ feat : Adding the word 'gently'
+
+commit 34ba8a04dd66fa5980f9efd42a38dd62d1ec7672
+Author: mon0mon <mon0mon@naver.com>
+Date:   Sun Dec 17 13:53:52 2023 +0900
+
+    ✨ feat : Adding the word 'boat'
+
+commit 8d655f8ffc1155a6adbec5a573e251fd1a3b0971
+Author: mon0mon <mon0mon@naver.com>
+Date:   Sun Dec 17 13:53:52 2023 +0900
+
+    ✨ feat : Adding the word 'your'
+
+commit 370f08d77703de6e0dca5613a1740631267ee3ce
+Author: mon0mon <mon0mon@naver.com>
+Date:   Sun Dec 17 13:53:52 2023 +0900
+
+    ✨ feat : Adding third row
+
+commit 78820a52c9c10f5027e8fd4cd0e81d8cf5c4234c
+Author: mon0mon <mon0mon@naver.com>
+Date:   Sun Dec 17 13:53:52 2023 +0900
+
+    ✨ feat : Adding second row
+
+commit 878af50fd07751fb09102e8a64f2b50ed2761a0b
+Author: mon0mon <mon0mon@naver.com>
+Date:   Sun Dec 17 13:53:52 2023 +0900
+
+    ✨ feat : Adding first row
+
+commit 28318f82cb95646b3b0ff44525357f60ea50543a
+Author: ARA <mon0mon@naver.com>
+Date:   Sun Dec 17 13:49:54 2023 +0900
+
+    🚀 init : 새로운 시작!
